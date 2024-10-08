@@ -40,4 +40,3 @@ Once Rancher is running, open your browser and go to:
 
 http://localhost
 You should see the Rancher login page. Follow the steps to set up Rancher and start managing Kubernetes clusters.
-
